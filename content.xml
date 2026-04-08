@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260408183409G3HZ93</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260408183409HTMGS2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>VIAJAMOS HASTA ÁFRICA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Esperanza Becerra González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje destinada al alumnado de infantil 5 años sobre el continente africano.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775658449248</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1775573978773-zdbjp03j2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775573978773-zdbjp03j2</odePageId>
+      <odeBlockId>block-1775573990740-y0ys2xcog</odeBlockId>
+      <blockName>INICIO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775573978773-zdbjp03j2</odePageId>
+          <odeBlockId>block-1775573990740-y0ys2xcog</odeBlockId>
+          <odeIdeviceId>idevice-1775573990738-ktlw82mlm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos a este archivo ExeLearning, donde se trata de desarrollar una Situación de Aprendizaje pensada para la comunidad autónoma de Andalucía, diseñada para el curso 5 años, insertada en  el ambiente de lectura y escritura. A lo largo de este archivo, están desarrolladas las múltiples tareas y actividades que se llevarían a cabo en el recurso, así como se detallan los diferentes elementos curriculares que tienen cabida en él.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775573990738-ktlw82mlm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos a este archivo ExeLearning, donde se trata de desarrollar una Situación de Aprendizaje pensada para la comunidad autónoma de Andalucía, diseñada para el curso 5 años, insertada en  el ambiente de lectura y escritura. A lo largo de este archivo, están desarrolladas las múltiples tareas y actividades que se llevarían a cabo en el recurso, así como se detallan los diferentes elementos curriculares que tienen cabida en él.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775572772043-9mlzjxu3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MÓDULO 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775572772043-9mlzjxu3f</odePageId>
+      <odeBlockId>block-1775574327412-o5zvw77pn</odeBlockId>
+      <blockName>RECURSOS EDUCATIVOS ABIERTOS. LICENCIAS Y SEGURIDAD</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775572772043-9mlzjxu3f</odePageId>
+          <odeBlockId>block-1775574327412-o5zvw77pn</odeBlockId>
+          <odeIdeviceId>idevice-1775574327408-p0e8eds3i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este apartado se centra en tres aspectos esenciales: <strong>las Situaciones de Aprendizaje, los Recursos Educativos Digitales y las cuestiones de Licencias y Seguridad.</strong></p>
+<p>En relación con las Situaciones de Aprendizaje, se detalla de manera exhaustiva cómo deben organizarse desde el punto de vista didáctico, incluyendo los elementos curriculares que deben contemplar. Sobre los Recursos Educativos Digitales, se abordó su definición, su utilidad y las diferentes modalidades que existen. Finalmente, en lo referente a Licencias y Seguridad, se trabajaron conceptos como la autoría, los tipos de archivos finales, las compatibilidades y restricciones, un tema especialmente interesante debido al desconocimiento general que suele existir al respecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775574327408-p0e8eds3i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este apartado se centra en tres aspectos esenciales: <strong>las Situaciones de Aprendizaje, los Recursos Educativos Digitales y las cuestiones de Licencias y Seguridad.</strong></p>\n<p>En relación con las Situaciones de Aprendizaje, se detalla de manera exhaustiva cómo deben organizarse desde el punto de vista didáctico, incluyendo los elementos curriculares que deben contemplar. Sobre los Recursos Educativos Digitales, se abordó su definición, su utilidad y las diferentes modalidades que existen. Finalmente, en lo referente a Licencias y Seguridad, se trabajaron conceptos como la autoría, los tipos de archivos finales, las compatibilidades y restricciones, un tema especialmente interesante debido al desconocimiento general que suele existir al respecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775574112187-0ajn53jgv</odePageId>
+  <odeParentPageId>page-1775572772043-9mlzjxu3f</odeParentPageId>
+  <pageName>Tarea 2.1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775574112187-0ajn53jgv</odePageId>
+      <odeBlockId>block-1775574616082-ca6lbar6i</odeBlockId>
+      <blockName>Comenzamos nuestra SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775574112187-0ajn53jgv</odePageId>
+          <odeBlockId>block-1775574616082-ca6lbar6i</odeBlockId>
+          <odeIdeviceId>idevice-1775574616075-cbyekhfmx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea, se plantea la SdA que vamos a desarrollar en base a la rutina de pensamiento, destinada al alumnado de infantil de 5 años, desde el área de comunicación y representación de la realidad. </p>
+<p>SdA: <a href="https://canva.link/vyl3vx0spgwxkjw" title="">Viajamos hasta África.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775574616075-cbyekhfmx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea, se plantea la SdA que vamos a desarrollar en base a la rutina de pensamiento, destinada al alumnado de infantil de 5 años, desde el área de comunicación y representación de la realidad. </p>\n<p>SdA: <a href=\"https://canva.link/vyl3vx0spgwxkjw\" title=\"\">Viajamos hasta África.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775574128772-bi5cx9p0b</odePageId>
+  <odeParentPageId>page-1775572772043-9mlzjxu3f</odeParentPageId>
+  <pageName>Tarea 2.3</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775574128772-bi5cx9p0b</odePageId>
+      <odeBlockId>block-1775576212280-5mdgds6qs</odeBlockId>
+      <blockName>Licencias y seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775574128772-bi5cx9p0b</odePageId>
+          <odeBlockId>block-1775576212280-5mdgds6qs</odeBlockId>
+          <odeIdeviceId>idevice-1775576212275-vrat3uizx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea se elabora una infografía para el alumnado de infantil donde se detallan datos muy importantes sobre la protección de datos personales y derechos digitales. </p>
+<p><a href="{{context_path}}/content/resources/INFOGRAFÍA ESPERANZA BECERRA GONZÁLEZ.pdf" title="INFOGRAFÍA ESPERANZA BECERRA GONZÁLEZ.pdf">Licencias y seguridad.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576212275-vrat3uizx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea se elabora una infografía para el alumnado de infantil donde se detallan datos muy importantes sobre la protección de datos personales y derechos digitales. </p>\n<p><a href=\"{{context_path}}/content/resources/INFOGRAFÍA ESPERANZA BECERRA GONZÁLEZ.pdf\" title=\"INFOGRAFÍA ESPERANZA BECERRA GONZÁLEZ.pdf\">Licencias y seguridad.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775576453955-0v56j96pe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 4</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MÓDULO 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775576453955-0v56j96pe</odePageId>
+      <odeBlockId>block-1775576457437-e92x898us</odeBlockId>
+      <blockName>Herramientas para la creación y publicación de contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775576453955-0v56j96pe</odePageId>
+          <odeBlockId>block-1775576457437-e92x898us</odeBlockId>
+          <odeIdeviceId>idevice-1775576457436-oqpl3kalf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el módulo 4, denominado <strong>Herramientas para la creación y publicación de contenidos</strong>, se presentan de manera clara las opciones que tienen los docentes para generar y difundir contenidos digitales en sus clases. Por ello, se analizarán todas las herramientas educativas disponibles para la elaboración y publicación de materiales didácticos, abarcando desde las tradicionales aplicaciones de ofimática en línea hasta opciones más innovadoras y atractivas, como líneas temporales, podcasts, editores de video, cuestionarios y otras similares.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576457436-oqpl3kalf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el módulo 4, denominado <strong>Herramientas para la creación y publicación de contenidos</strong>, se presentan de manera clara las opciones que tienen los docentes para generar y difundir contenidos digitales en sus clases. Por ello, se analizarán todas las herramientas educativas disponibles para la elaboración y publicación de materiales didácticos, abarcando desde las tradicionales aplicaciones de ofimática en línea hasta opciones más innovadoras y atractivas, como líneas temporales, podcasts, editores de video, cuestionarios y otras similares.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775576602404-2ewqqlblf</odePageId>
+  <odeParentPageId>page-1775576453955-0v56j96pe</odeParentPageId>
+  <pageName>Tarea 4.1</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775576602404-2ewqqlblf</odePageId>
+      <odeBlockId>block-1775576810918-mt6upl85f</odeBlockId>
+      <blockName>Interacción en el foro. Herramientas para el producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775576602404-2ewqqlblf</odePageId>
+          <odeBlockId>block-1775576810918-mt6upl85f</odeBlockId>
+          <odeIdeviceId>idevice-1775576810915-6ikk3u1sw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar esta actividad se abrirá un hilo indicando la herramienta digital que se llevará a cabo para desarrollar el producto final, así como la justificación de la elección de la misma adaptada al contexto y la disponibilidad del centro.</p>
+<p>Tarea con texto original extraído del foro:</p>
+<p><em>"Hola a todos/as,</em></p>
+<p><em>En mi proyecto “Viajamos hasta África”, dirigido a alumnado de 5 años, el producto final consiste en la creación de un cuento digital sencillo a través de la plataforma de Canva, se van a incorporar diversas herramientas digitales que serán utilizadas tanto por el profesorado como por el alumnado, debido a la edad que tienen estos niños y niñas contaremos con ayuda de las familias para realiza nuestro producto final, pero siempre fomentaremos la participación activa del alumnado.</em></p>
+<p><em>En el ambiente va a estar puesta a disposición del alumnado un ordenador en el que podrán realizar búsqueda de información sobre personas relevantes, animales, comida cultura... para ello, necesitarán la ayuda de un adulto, se les aportará plantillas para que solo tengan que rellenar huecos de algunas palabras claves. Para la realización de esta actividad utilizaremos google kiddle y vídeos de YouTube educativos adaptados a su edad. Teniendo en cuenta que estas herramientas le permiten acceder a la información de manera visual siendo esta más llamativa para el alumnado.</em></p>
+<p><em>Por otro lado, el alumnado podrá visionar cuentos y vídeos relevantes en la asamblea sobre temas de interés relacionados con África, aprenderemos cosas interesantes, canciones y bailes...Estos recursos serán seleccionados por la docente y ayudará a la comprensión oral, aumentará la motivación del alumnado, así como facilitará el aprendizaje a través de la imagen y el sonido.</em></p>
+<p><em>Continuaremos con la escritura libre del alumnado en formato Word de palabras de vocabulario relacionado con África, para ello la docente previamente realizará estas tarjetas en Canva que serán impresas y puestas a disposición del alumnado favoreciendo la iniciación a la competencia digital, el desarrollo de la lectoescritura y la asociación de imagen palabra.</em></p>
+<p><em>Para finalizar, recopilaremos toda la información utilizando la pizarra digital donde el alumnado podrá escribir todas las palabras claves que han aprendido clasificadas según diferentes categorías como animales, personas, costumbres...Esta información será traslada a nuestro cuento digital en Canva.</em></p>
+<p><em>Espero que os guste la idea y os sea de utilidad.</em></p>
+<p><em>Un saludo."</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775576810915-6ikk3u1sw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar esta actividad se abrirá un hilo indicando la herramienta digital que se llevará a cabo para desarrollar el producto final, así como la justificación de la elección de la misma adaptada al contexto y la disponibilidad del centro.</p>\n<p>Tarea con texto original extraído del foro:</p>\n<p><em>\"Hola a todos/as,</em></p>\n<p><em>En mi proyecto “Viajamos hasta África”, dirigido a alumnado de 5 años, el producto final consiste en la creación de un cuento digital sencillo a través de la plataforma de Canva, se van a incorporar diversas herramientas digitales que serán utilizadas tanto por el profesorado como por el alumnado, debido a la edad que tienen estos niños y niñas contaremos con ayuda de las familias para realiza nuestro producto final, pero siempre fomentaremos la participación activa del alumnado.</em></p>\n<p><em>En el ambiente va a estar puesta a disposición del alumnado un ordenador en el que podrán realizar búsqueda de información sobre personas relevantes, animales, comida cultura... para ello, necesitarán la ayuda de un adulto, se les aportará plantillas para que solo tengan que rellenar huecos de algunas palabras claves. Para la realización de esta actividad utilizaremos google kiddle y vídeos de YouTube educativos adaptados a su edad. Teniendo en cuenta que estas herramientas le permiten acceder a la información de manera visual siendo esta más llamativa para el alumnado.</em></p>\n<p><em>Por otro lado, el alumnado podrá visionar cuentos y vídeos relevantes en la asamblea sobre temas de interés relacionados con África, aprenderemos cosas interesantes, canciones y bailes...Estos recursos serán seleccionados por la docente y ayudará a la comprensión oral, aumentará la motivación del alumnado, así como facilitará el aprendizaje a través de la imagen y el sonido.</em></p>\n<p><em>Continuaremos con la escritura libre del alumnado en formato Word de palabras de vocabulario relacionado con África, para ello la docente previamente realizará estas tarjetas en Canva que serán impresas y puestas a disposición del alumnado favoreciendo la iniciación a la competencia digital, el desarrollo de la lectoescritura y la asociación de imagen palabra.</em></p>\n<p><em>Para finalizar, recopilaremos toda la información utilizando la pizarra digital donde el alumnado podrá escribir todas las palabras claves que han aprendido clasificadas según diferentes categorías como animales, personas, costumbres...Esta información será traslada a nuestro cuento digital en Canva.</em></p>\n<p><em>Espero que os guste la idea y os sea de utilidad.</em></p>\n<p><em>Un saludo.\"</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775577046629-s99kpzfxw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 5</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775577046629-s99kpzfxw</odePageId>
+      <odeBlockId>block-1775577117473-cxe1kwb7k</odeBlockId>
+      <blockName>Herramientas para la organización y la gestión de la información</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775577046629-s99kpzfxw</odePageId>
+          <odeBlockId>block-1775577117473-cxe1kwb7k</odeBlockId>
+          <odeIdeviceId>idevice-1775577117468-lraujeb73</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este módulo se explorarán las herramientas de la web 2.0 que facilitan la organización y gestión de la información, así como la administración del aula y todos los aspectos vinculados a la labor docente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577117468-lraujeb73","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo se explorarán las herramientas de la web 2.0 que facilitan la organización y gestión de la información, así como la administración del aula y todos los aspectos vinculados a la labor docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775577197095-8dbc6tw0i</odePageId>
+  <odeParentPageId>page-1775577046629-s99kpzfxw</odeParentPageId>
+  <pageName>Tarea 5.1</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775577197095-8dbc6tw0i</odePageId>
+      <odeBlockId>block-1775577216932-v4yaxn2x9</odeBlockId>
+      <blockName>Curación de contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775577197095-8dbc6tw0i</odePageId>
+          <odeBlockId>block-1775577216932-v4yaxn2x9</odeBlockId>
+          <odeIdeviceId>idevice-1775577216930-3pfnqjt4s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización de esta tarea tendremos que seleccionar dos herramientas que necesitaremos almnado para a realización de la SdA.</p>
+<p>1º Herramienta de curación de contenido. <a href="https://padlet.com/ebecgon646/viajamos-hasta-frica-81zjnlss91sgpu62" title="">Padlet</a> para el alumnado.<br /></p>
+<p>2º Herramienta de curación de contenido. <a href="https://canva.link/k7go2gnjk78bmuj" title="">Programación </a>con hipervínculos  nivel 5 años.</p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577216930-3pfnqjt4s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización de esta tarea tendremos que seleccionar dos herramientas que necesitaremos almnado para a realización de la SdA.</p>\n<p>1º Herramienta de curación de contenido. <a href=\"https://padlet.com/ebecgon646/viajamos-hasta-frica-81zjnlss91sgpu62\" title=\"\">Padlet</a> para el alumnado.<br /></p>\n<p>2º Herramienta de curación de contenido. <a href=\"https://canva.link/k7go2gnjk78bmuj\" title=\"\">Programación </a>con hipervínculos  nivel 5 años.</p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775577596948-mlfuy6dkx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 6</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775577596948-mlfuy6dkx</odePageId>
+      <odeBlockId>block-1775577610173-yma1j2851</odeBlockId>
+      <blockName>Concreción curricular</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775577596948-mlfuy6dkx</odePageId>
+          <odeBlockId>block-1775577610173-yma1j2851</odeBlockId>
+          <odeIdeviceId>idevice-1775577610171-kmbu3r7dc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este módulo analizaremos el currículo de infantil, haciendo un repaso de la normativa actual. Asimismo, se desglosarán los diferentes elementos curriculares aclarando definiciones, como los objetivos, los descriptores del perfil de salida, las competencias específicas, los saberes básicos y los criterios de evaluación. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577610171-kmbu3r7dc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo analizaremos el currículo de infantil, haciendo un repaso de la normativa actual. Asimismo, se desglosarán los diferentes elementos curriculares aclarando definiciones, como los objetivos, los descriptores del perfil de salida, las competencias específicas, los saberes básicos y los criterios de evaluación. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775577605889-ys8m7ylx4</odePageId>
+  <odeParentPageId>page-1775577596948-mlfuy6dkx</odeParentPageId>
+  <pageName>TAREA 6.1</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 6.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775577605889-ys8m7ylx4</odePageId>
+      <odeBlockId>block-1775577769289-mokvs1fet</odeBlockId>
+      <blockName>Asociamos tareas a criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775577605889-ys8m7ylx4</odePageId>
+          <odeBlockId>block-1775577769289-mokvs1fet</odeBlockId>
+          <odeIdeviceId>idevice-1775577769286-w4bn40769</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar esta tarea, relacionaremos las actividades que vamos a proponer en nuestra SdA con los criterios de evaluación teniendo en cuenta en todo momento la actividad propuesta en la tarea 2.1.</p>
+<p><a href="https://docs.google.com/document/d/16hwH7Ztw7HC5rwXVDDYTnLnQSlPQJSEYdyJxSOY7tJk/edit?usp=sharing" title="">Relacionamos tareas con criterios de evaluación.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577769286-w4bn40769","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar esta tarea, relacionaremos las actividades que vamos a proponer en nuestra SdA con los criterios de evaluación teniendo en cuenta en todo momento la actividad propuesta en la tarea 2.1.</p>\n<p><a href=\"https://docs.google.com/document/d/16hwH7Ztw7HC5rwXVDDYTnLnQSlPQJSEYdyJxSOY7tJk/edit?usp=sharing\" title=\"\">Relacionamos tareas con criterios de evaluación.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775577963717-cua3klckb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 7</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 7</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775577963717-cua3klckb</odePageId>
+      <odeBlockId>block-1775577966285-s8kpsd4ry</odeBlockId>
+      <blockName>Organización espacial, temporal y grupal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775577963717-cua3klckb</odePageId>
+          <odeBlockId>block-1775577966285-s8kpsd4ry</odeBlockId>
+          <odeIdeviceId>idevice-1775577966283-kvi2xj759</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este módulo comprendemos la relevancia de mantener un orden dentro del aula en relación con el tiempo, el espacio y la organización de los grupos de aprendizaje. Esto es fundamental, ya que no todas las sesiones se estructuran de la misma manera, ni disponen del mismo tiempo para desarrollar las actividades programadas, y tampoco todo el alumnado avanza al mismo ritmo.</p>
+<p>Asimismo, se destaca especialmente la importancia del trabajo cooperativo en la rutina diaria, un aspecto central en mi SdA y, en general, en mi concepción actual de la educación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775577966283-kvi2xj759","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo comprendemos la relevancia de mantener un orden dentro del aula en relación con el tiempo, el espacio y la organización de los grupos de aprendizaje. Esto es fundamental, ya que no todas las sesiones se estructuran de la misma manera, ni disponen del mismo tiempo para desarrollar las actividades programadas, y tampoco todo el alumnado avanza al mismo ritmo.</p>\n<p>Asimismo, se destaca especialmente la importancia del trabajo cooperativo en la rutina diaria, un aspecto central en mi SdA y, en general, en mi concepción actual de la educación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775578044197-yeij5fa6h</odePageId>
+  <odeParentPageId>page-1775577963717-cua3klckb</odeParentPageId>
+  <pageName>Tarea 7.1</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775578044197-yeij5fa6h</odePageId>
+      <odeBlockId>block-1775578055988-kazpcnz0n</odeBlockId>
+      <blockName>Línea temporal para la organización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775578044197-yeij5fa6h</odePageId>
+          <odeBlockId>block-1775578055988-kazpcnz0n</odeBlockId>
+          <odeIdeviceId>idevice-1775578055987-ailxfs2vd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea se creará una línea temporal en la que se ve de forma clara como es una jornada habitual dentro de nuestra aula. Para la realización de dicha tarea se ha utilizado la herramienta de Genially pensando que es más visual y sencilla para el alumnado de infantil.</p>
+<p><a href="https://view.genially.com/69d3c24b4f8a7e69b62bdf8a" title="">Organización jornada escolar.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578055987-ailxfs2vd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea se creará una línea temporal en la que se ve de forma clara como es una jornada habitual dentro de nuestra aula. Para la realización de dicha tarea se ha utilizado la herramienta de Genially pensando que es más visual y sencilla para el alumnado de infantil.</p>\n<p><a href=\"https://view.genially.com/69d3c24b4f8a7e69b62bdf8a\" title=\"\">Organización jornada escolar.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775578204472-6y782lf0l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MÓDULO 8</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MÓDULO 8</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775578204472-6y782lf0l</odePageId>
+      <odeBlockId>block-1775578225573-0swgd7r7r</odeBlockId>
+      <blockName>La evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775578204472-6y782lf0l</odePageId>
+          <odeBlockId>block-1775578225573-0swgd7r7r</odeBlockId>
+          <odeIdeviceId>idevice-1775578225571-p44xc04xm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación se ha convertido en un tema central en la educación, motivando a docentes, alumnado y familias a reflexionar sobre cómo enfocarla de manera más significativa.</p>
+<p>A lo largo de este módulo se analizarán los diferentes momentos de evaluación, los instrumentos que podemos emplear, para que nos ayuden a mejorar la educación.</p>
+<p>Teniendo en cuenta lo que nos marca el actual marco legislativo de la LOMLOE.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578225571-p44xc04xm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se ha convertido en un tema central en la educación, motivando a docentes, alumnado y familias a reflexionar sobre cómo enfocarla de manera más significativa.</p>\n<p>A lo largo de este módulo se analizarán los diferentes momentos de evaluación, los instrumentos que podemos emplear, para que nos ayuden a mejorar la educación.</p>\n<p>Teniendo en cuenta lo que nos marca el actual marco legislativo de la LOMLOE.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775578421440-hjolh0n41</odePageId>
+  <odeParentPageId>page-1775578204472-6y782lf0l</odeParentPageId>
+  <pageName>Tarea 8.1</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775578421440-hjolh0n41</odePageId>
+      <odeBlockId>block-1775578445767-poty1ncf6</odeBlockId>
+      <blockName>Elegimos y creamos los instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775578421440-hjolh0n41</odePageId>
+          <odeBlockId>block-1775578445767-poty1ncf6</odeBlockId>
+          <odeIdeviceId>idevice-1775578445765-quzhah7sb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización de la tarea, se han seleccionado dos instrumentos de evaluación  para mi SdA "Viajamos hasta África", uno para la evaluación del proceso de enseñanza- aprendizaje y, otro una autoevaluación del alumnado.</p>
+<p>1º Evaluación del proceso de enseñanza-aprendizaje. <a href="https://docs.google.com/spreadsheets/d/1kKRXnJhtDAyHFLYrrXPbvyPI5dxbJDfMEm2DoxDPe7M/edit?usp=sharing" title="">Observaciones.</a></p>
+<p>2º Diana de autoevaluación para el alumnado. <a href="https://view.genially.com/69d4182b6a998462851fc024" title="">Diana.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775578445765-quzhah7sb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización de la tarea, se han seleccionado dos instrumentos de evaluación  para mi SdA \"Viajamos hasta África\", uno para la evaluación del proceso de enseñanza- aprendizaje y, otro una autoevaluación del alumnado.</p>\n<p>1º Evaluación del proceso de enseñanza-aprendizaje. <a href=\"https://docs.google.com/spreadsheets/d/1kKRXnJhtDAyHFLYrrXPbvyPI5dxbJDfMEm2DoxDPe7M/edit?usp=sharing\" title=\"\">Observaciones.</a></p>\n<p>2º Diana de autoevaluación para el alumnado. <a href=\"https://view.genially.com/69d4182b6a998462851fc024\" title=\"\">Diana.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775658112313-qegp6bxnu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775658112313-qegp6bxnu</odePageId>
+      <odeBlockId>block-1775663571031-tsand4zm0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775658112313-qegp6bxnu</odePageId>
+          <odeBlockId>block-1775663571031-tsand4zm0</odeBlockId>
+          <odeIdeviceId>idevice-1775663571030-dt0y9wwl9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado se incluyen las tareas asociadas a los criterios de evaluación, así como otros elementos curriculares, finalizando con diferentes observaciones. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775663571030-dt0y9wwl9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado se incluyen las tareas asociadas a los criterios de evaluación, así como otros elementos curriculares, finalizando con diferentes observaciones. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775662524255-87i9n7gkw</odePageId>
+  <odeParentPageId>page-1775658112313-qegp6bxnu</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775662524255-87i9n7gkw</odePageId>
+      <odeBlockId>block-1775662538656-dxzye7o97</odeBlockId>
+      <blockName>Asociación de tareas con elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775662524255-87i9n7gkw</odePageId>
+          <odeBlockId>block-1775662538656-dxzye7o97</odeBlockId>
+          <odeIdeviceId>idevice-1775662538655-ba2kly8ky</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, se establece la relación de los elementos curriculares con las actividades propuestas en la SdA.</p>
+<p><a href="https://docs.google.com/document/d/1Tp73ss8NtSpgDoijTJhwhv_3rwDQlC6RPQJMIR3Hpm8/edit?usp=sharing" title="">Tabla elementos curriculares.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775662538655-ba2kly8ky","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, se establece la relación de los elementos curriculares con las actividades propuestas en la SdA.</p>\n<p><a href=\"https://docs.google.com/document/d/1Tp73ss8NtSpgDoijTJhwhv_3rwDQlC6RPQJMIR3Hpm8/edit?usp=sharing\" title=\"\">Tabla elementos curriculares.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775662534936-gvry7pe6h</odePageId>
+  <odeParentPageId>page-1775658112313-qegp6bxnu</odeParentPageId>
+  <pageName>Observaciones</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Observaciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775662534936-gvry7pe6h</odePageId>
+      <odeBlockId>block-1775662879807-zgm8rcypp</odeBlockId>
+      <blockName>Información de interés para su aplicación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775662534936-gvry7pe6h</odePageId>
+          <odeBlockId>block-1775662879807-zgm8rcypp</odeBlockId>
+          <odeIdeviceId>idevice-1775662879803-bgvvmybvz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBSERVACIONES PARA LA APLICACIÓN DOCENTE</strong><br />Contextualización del Proyecto: La Situación de Aprendizaje (SdA) "Viajamos hasta África" está diseñada para el alumnado de Educación Infantil (5 años). El eje vertebrador es la curiosidad natural del niño/a por lo desconocido, utilizando un "viaje imaginario" como motor de aprendizaje. A diferencia de etapas superiores, aquí el foco no es la adquisición de contenidos teóricos, sino el despertar de la conciencia cultural, el respeto a la diversidad y la iniciación en la competencia digital.</p>
+<p><strong>Claves Metodológicas:</strong></p>
+<p>Motivación e Indagación: Se ha priorizado el papel de la indagación. Es fundamental que el docente actúe como guía en el uso de herramientas como Google Kiddle o Canva, permitiendo que el alumnado experimente la sensación de "descubrimiento" al buscar información sobre fauna o costumbres.<br />Uso de la Tecnología: El uso de procesadores de texto (Word) o cuentos digitales en esta etapa no busca la perfección ortográfica, sino que el alumnado comprenda la funcionalidad de la escritura y se familiarice con diversos soportes (DUA).<br />Estilo de Vida y Valores: Aunque el proyecto explora un continente lejano, el objetivo transversal es fomentar un estilo de vida basado en la curiosidad intelectual y el respeto, sentando las bases de una ciudadanía global y digital responsable.</p>
+<p><br /><strong>Recomendaciones de Implementación:</strong></p>
+<p>Se recomienda alternar las actividades en gran grupo (asambleas de lluvia de ideas) con el trabajo por rincones (zona de auriculares para cuentos y zona de ordenador para escritura) para garantizar una atención personalizada y respetar los diferentes ritmos de aprendizaje.<br />Es vital que el docente supervise las sesiones de búsqueda digital para modelar estrategias de filtrado de información y lectura de imágenes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775662879803-bgvvmybvz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>OBSERVACIONES PARA LA APLICACIÓN DOCENTE</strong><br />Contextualización del Proyecto: La Situación de Aprendizaje (SdA) \"Viajamos hasta África\" está diseñada para el alumnado de Educación Infantil (5 años). El eje vertebrador es la curiosidad natural del niño/a por lo desconocido, utilizando un \"viaje imaginario\" como motor de aprendizaje. A diferencia de etapas superiores, aquí el foco no es la adquisición de contenidos teóricos, sino el despertar de la conciencia cultural, el respeto a la diversidad y la iniciación en la competencia digital.</p>\n<p><strong>Claves Metodológicas:</strong></p>\n<p>Motivación e Indagación: Se ha priorizado el papel de la indagación. Es fundamental que el docente actúe como guía en el uso de herramientas como Google Kiddle o Canva, permitiendo que el alumnado experimente la sensación de \"descubrimiento\" al buscar información sobre fauna o costumbres.<br />Uso de la Tecnología: El uso de procesadores de texto (Word) o cuentos digitales en esta etapa no busca la perfección ortográfica, sino que el alumnado comprenda la funcionalidad de la escritura y se familiarice con diversos soportes (DUA).<br />Estilo de Vida y Valores: Aunque el proyecto explora un continente lejano, el objetivo transversal es fomentar un estilo de vida basado en la curiosidad intelectual y el respeto, sentando las bases de una ciudadanía global y digital responsable.</p>\n<p><br /><strong>Recomendaciones de Implementación:</strong></p>\n<p>Se recomienda alternar las actividades en gran grupo (asambleas de lluvia de ideas) con el trabajo por rincones (zona de auriculares para cuentos y zona de ordenador para escritura) para garantizar una atención personalizada y respetar los diferentes ritmos de aprendizaje.<br />Es vital que el docente supervise las sesiones de búsqueda digital para modelar estrategias de filtrado de información y lectura de imágenes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775658130065-bwi0029n4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS EXELEARNING</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS EXELEARNING</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775658130065-bwi0029n4</odePageId>
+      <odeBlockId>block-1775663081558-bgpcj21le</odeBlockId>
+      <blockName>Créditos exelearning</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775658130065-bwi0029n4</odePageId>
+          <odeBlockId>block-1775663081558-bgpcj21le</odeBlockId>
+          <odeIdeviceId>idevice-1775663081554-7q3ncleuj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong> Esperanza Becerra González</p>
+<p><strong>Descripción: </strong>Situación de Aprendizaje "Viajamos hasta África" diseñada para el alumnado de Educación Infantil (5 años).</p>
+<p><strong>Área implicada: </strong>Comunicación y Representación de la Realidad (Área 3).</p>
+<p><strong>Nivel: </strong>2º Ciclo de Educación Infantil.</p>
+<p><strong>Licencia de uso: </strong>Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA).</p>
+<p><strong>Archivo elp descargable y modificable</strong>: <a href="{{context_path}}/content/resources/viajamos-hasta-africa.elpx" title="viajamos-hasta-africa.elpx">Exelearning SdA Viajamos hasta África.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775663081554-7q3ncleuj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong> Esperanza Becerra González</p>\n<p><strong>Descripción: </strong>Situación de Aprendizaje \"Viajamos hasta África\" diseñada para el alumnado de Educación Infantil (5 años).</p>\n<p><strong>Área implicada: </strong>Comunicación y Representación de la Realidad (Área 3).</p>\n<p><strong>Nivel: </strong>2º Ciclo de Educación Infantil.</p>\n<p><strong>Licencia de uso: </strong>Creative Commons Reconocimiento-CompartirIgual 4.0 (CC BY-SA).</p>\n<p><strong>Archivo elp descargable y modificable</strong>: <a href=\"{{context_path}}/content/resources/viajamos-hasta-africa.elpx\" title=\"viajamos-hasta-africa.elpx\">Exelearning SdA Viajamos hasta África.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775658130065-bwi0029n4</odePageId>
+      <odeBlockId>block-1775663378635-8kwfmgnzy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775658130065-bwi0029n4</odePageId>
+          <odeBlockId>block-1775663378635-8kwfmgnzy</odeBlockId>
+          <odeIdeviceId>idevice-1775663378632-mr62xaql8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">VIAJAMOS HASTA ÁFRICA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje destinada al alumnado de infantil 5 años sobre el continente africano.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Esperanza Becerra González</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
